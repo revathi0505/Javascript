@@ -1,4 +1,4 @@
-write a js program,we have two integers m aad n,calculate the sum of the cubes of the integers from m to n.If m is greater than n,return 0 or displkay the proper message.
+write a js program,we have two integers m aad n,calculate the sum of the cubes of the integers from m to n.If m is greater than n,return 0 or display the proper message.
 test case1:
 m=2,n=4
 test case2:
